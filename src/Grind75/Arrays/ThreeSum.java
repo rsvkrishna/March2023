@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Threesome {
+public class ThreeSum {
     /*  Input: nums = [-1,0,1,2,-1,-4]
         Output: [[-1,-1,2],[-1,0,1]]     */
 
